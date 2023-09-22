@@ -39,7 +39,8 @@ a:hover {
 }
 
 #title {
-    background-image: linear-gradient(#50b154, #1b9eb2, #207abe, #6152a5);
+    background-color: #FF8F36;
+    
     color: white;
     text-align: left;
 }
@@ -109,20 +110,24 @@ a:hover {
 }
 
 .featuresimg {
-    color: #1b9eb2;
+    color: #FF8F36;
     width: 40px;
     margin: auto;
     margin-bottom: 1rem;
 }
 
 .featuresimg:hover {
-    color: #207abe;
+    color: #c2661a;
 } 
 
 /* Testimonial Section */
 
 .TestandPressBG {
-    background-image: linear-gradient(#50b154, #1b9eb2, #207abe, #6152a5);
+    background-color: #FF8F36;
+}
+
+.titulo-atraçoes{
+    margin-top: 3%;
 }
 
 #testimonials {
@@ -131,8 +136,7 @@ a:hover {
 }
 
 .testimonial-image {
-    width: 10%;
-    border-radius: 100%;
+    width: 250px;
     margin: 20px;
 }
 
@@ -153,6 +157,10 @@ a:hover {
 
 /* Pricing Section */
 
+.popcorn {
+    width: 150px;
+}
+
 #pricing {
     padding: 100px;
 }
@@ -164,7 +172,7 @@ a:hover {
 /* Call To Action */
 
 #cta {
-    background-image: linear-gradient(#50b154, #1b9eb2, #207abe, #6152a5);
+    background-color: #FF8F36;
     color: white;
     font-family: 'Montserrat', sans-serif;
     padding: 7% 15%;

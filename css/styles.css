@@ -9,16 +9,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 p {
     color: #8f8f8f; 
-    font-size: 15pt;
+    font-size: 1.3rem;
 }
 
 a {
